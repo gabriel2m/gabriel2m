@@ -40,3 +40,5 @@
 [<img align="left" title="Apache Server" alt="Apache Server" width="26px" src="https://avatars.githubusercontent.com/u/47359?s=200&v=4" />](https://httpd.apache.org)
 [<img align="left" title="REST API" alt="REST API" width="26px" src="https://img.icons8.com/material-outlined/24/000000/api-settings.png" />](https://restfulapi.net)
 [<img align="left" title="Elasticsearch" alt="Elasticsearch" width="26px" src="https://cdn.worldvectorlogo.com/logos/elastic-elasticsearch.svg" />](https://www.elastic.co/pt/what-is/elasticsearch)
+[<img align="left" title="Gimp" alt="Gimp" width="26px" src="https://img.icons8.com/color/50/000000/gimp.png" />](https://www.gimp.org)
+[<img align="left" title="Inkscape" alt="Inkscape" width="26px" src="https://avatars.githubusercontent.com/u/8506907?s=200&v=4" />](https://inkscape.org)
