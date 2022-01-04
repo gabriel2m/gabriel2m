@@ -1,8 +1,8 @@
-### Hello there, My name is Gabriel - aka <a href=""> gabriel2m </a> 👋 
+<h1 align="center">Hello there 👋 My name is Gabriel - aka gabriel2m</h1>
 
-## I'm a Brazilian Web Developer!
+### I'm a Brazilian Web Developer!
 
-🔭 I’m currently seeking to learn everything linked to Web Development 🤣
+🔭 Seeking to learn everything linked to Web Development 🤣
 
 ### My links:
 
