@@ -1,4 +1,4 @@
-<h1 align="center">Hello there 👋 My name is Gabriel - aka <span style="color:blue"> gabriel2m </span></h1>
+<h1 align="center">Hello there 👋 My name is Gabriel - aka gabriel2m</h1>
 
 ### I'm a Brazilian Web Developer!
 
@@ -28,6 +28,7 @@
 [<img align="left" title="PostgreSQL" alt="PostgreSQL" width="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />](https://www.postgresql.org)
 [<img align="left" title="MySQL" alt="MySQL" width="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />](https://www.mysql.com)
 [<img align="left" title="SQLite" alt="SQLite" width="35" src="https://avatars.githubusercontent.com/u/48680494?v=4" />](https://www.sqlite.org)
+[<img align="left" title="Postman" alt="Postman" width="35" src="https://cdn.worldvectorlogo.com/logos/postman.svg" />](https://www.postman.com)
 [<img align="left" title="Git" alt="Git" width="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />](https://git-scm.com)
 [<img align="left" title="GitHub" alt="GitHub" width="35" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />](https://github.com)
 [<img align="left" title="Bitbucket" alt="Bitbucket" width="35" src="https://cdn.worldvectorlogo.com/logos/bitbucket-icon.svg" />](https://bitbucket.org)
