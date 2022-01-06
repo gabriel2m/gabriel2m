@@ -4,6 +4,8 @@
 
 🔭 Seeking to learn everything linked to Web Development 🤣
 
+##
+
 ### My links:
 
 [<img align="left" title="linkedin" alt="linkedin" width="30" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" />](https://linkedin.com/in/gabriel2mt)
@@ -12,6 +14,7 @@
 </a>
 [<img align="left" title="linktree" alt="linktree" width="30" src="https://cdn.worldvectorlogo.com/logos/linktree-2.svg" />](https://linktr.ee/gabriel2m)
 <br />
+##
 
 ### Some of my technologies:
 
