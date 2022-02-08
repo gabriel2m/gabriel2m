@@ -46,3 +46,11 @@
 [<img align="left" title="Elasticsearch" alt="Elasticsearch" width="35" src="https://cdn.worldvectorlogo.com/logos/elastic-elasticsearch.svg" />](https://www.elastic.co/pt/what-is/elasticsearch)
 [<img align="left" title="Gimp" alt="Gimp" width="35" src="https://img.icons8.com/color/50/000000/gimp.png" />](https://www.gimp.org)
 [<img align="left" title="Inkscape" alt="Inkscape" width="35" src="https://avatars.githubusercontent.com/u/8506907?s=200&v=4" />](https://inkscape.org)
+<br />
+<br />
+<br />
+<br />
+##
+
+### Last Contributions:
+![Snake animation](https://github.com/gabriel2m/gabriel2m/blob/master/snake.svg)
