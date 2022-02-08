@@ -6,16 +6,6 @@
 
 ##
 
-### My links:
-
-[<img align="left" title="linkedin" alt="linkedin" width="30" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" />](https://linkedin.com/in/gabriel2mt)
-<a href="mailto:gabriel2m.contact@gmail.com">
-  <img align="left" title="gabriel2m.contact@gmail.com" alt="gabriel2m.contact@gmail.com" width="30" src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" />
-</a>
-[<img align="left" title="linktree" alt="linktree" width="30" src="https://cdn.worldvectorlogo.com/logos/linktree-2.svg" />](https://linktr.ee/gabriel2m)
-<br />
-##
-
 ### Some of my technologies:
 
 [<img align="left" title="JavaScript" alt="JavaScript" width="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />](https://developer.mozilla.org/docs/Web/JavaScript)
@@ -49,6 +39,16 @@
 <br />
 <br />
 <br />
+<br />
+##
+
+### My links:
+
+[<img align="left" title="linkedin" alt="linkedin" width="30" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" />](https://linkedin.com/in/gabriel2mt)
+<a href="mailto:gabriel2m.contact@gmail.com">
+  <img align="left" title="gabriel2m.contact@gmail.com" alt="gabriel2m.contact@gmail.com" width="30" src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" />
+</a>
+[<img align="left" title="linktree" alt="linktree" width="30" src="https://cdn.worldvectorlogo.com/logos/linktree-2.svg" />](https://linktr.ee/gabriel2m)
 <br />
 ##
 
