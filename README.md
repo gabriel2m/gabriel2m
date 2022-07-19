@@ -23,5 +23,5 @@
 
 ##
 
-### My Last Contributions:
+### My Last Activities:
 ![Snake animation](https://github.com/gabriel2m/gabriel2m/blob/master/snake.svg)
