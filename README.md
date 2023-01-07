@@ -18,8 +18,6 @@
 <a href="mailto:gabriel2m.contact@gmail.com">
   <img align="left" title="gabriel2m.contact@gmail.com" alt="gabriel2m.contact@gmail.com" width="30" src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" />
 </a>
-[<img align="left" title="linktree" alt="linktree" width="30" src="https://cdn.worldvectorlogo.com/logos/linktree-2.svg" />](https://linktr.ee/gabriel2m)
-<br />
 
 ##
 
