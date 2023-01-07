@@ -2,7 +2,7 @@
 
 ### I'm a Brazilian Web Developer!
 
-🔭 Seeking to learn everything on Web Development
+🔭 Seeking to be the best deleloper that I can
 
 ##
 
