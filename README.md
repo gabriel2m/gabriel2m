@@ -12,7 +12,7 @@
 
 ##
 
-### How to contact me:
+### How to reach me:
 
 [<img align="left" title="linkedin" alt="linkedin" width="30" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" />](https://linkedin.com/in/gabriel2mt)
 <a href="mailto:gabriel2m.contact@gmail.com">
