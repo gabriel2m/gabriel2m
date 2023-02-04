@@ -14,7 +14,7 @@
 
 ### How to reach me:
 
-[<img align="left" title="linkedin" alt="linkedin" width="30" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" />](https://linkedin.com/in/gabriel2mt)
+[<img align="left" title="linkedin" alt="linkedin" width="30" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" />](https://linkedin.com/in/gabriel2m)
 <a href="mailto:gabriel2m.contact@gmail.com">
   <img align="left" title="gabriel2m.contact@gmail.com" alt="gabriel2m.contact@gmail.com" width="30" src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" />
 </a>
