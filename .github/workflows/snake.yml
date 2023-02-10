@@ -4,6 +4,7 @@ name: Generate snake.svg
 on:
   schedule: # execute every 12 hours
     - cron: "0 */12 * * *"
+  workflow_dispatch:
 
 jobs:
   build:
