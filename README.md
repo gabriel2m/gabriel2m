@@ -1,8 +1,8 @@
 <h1 align="center">Hello there 👋 Gabriel here</h1>
 
-### I'm a Brazilian Web Developer!
+### I'm a Brazilian Developer!
 
-🔭 Seeking to be the best deleloper that I can
+🔭 Seeking to be the best that I can
 
 ##
 
