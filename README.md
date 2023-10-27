@@ -23,4 +23,8 @@
 ##
 
 ### My last contributions:
-![Snake animation](https://github.com/gabriel2m/gabriel2m/blob/master/snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="snake.svg" />
+  <img alt="github-snake" src="snake.svg" />
+</picture>
