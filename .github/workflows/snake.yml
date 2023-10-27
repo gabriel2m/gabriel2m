@@ -13,10 +13,12 @@ jobs:
       - uses: actions/checkout@main
       
       - name: generate snake.svg
-        uses: Platane/snk/svg-only@v2
+        uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-          outputs: snake.svg
+          outputs: |
+            snake.svg
+            snake-dark.svg?palette=github-dark
           
       - name: push
         run: |
