@@ -2,7 +2,7 @@
 
 ### I'm a Brazilian Developer!
 
-🔭 Seeking to be the best that I can
+🔭 Seeking to be the best that I can be
 
 ##
 
